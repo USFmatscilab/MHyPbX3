@@ -1,0 +1,55 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     11.2960000000
+_cell_length_b     5.6993000000
+_cell_length_c     11.4784500000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma  90.0000000000
+_cell_volume       738.9744934402
+
+_symmetry_space_group_name_H-M "P m c 21"
+_symmetry_Int_Tables_number 26
+_space_group.reference_setting '026:P 2c -2'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z+1/2
+3 -x,y,z
+4 x,-y,z+1/2
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+Pb1 Pb   2 a  0.00000  0.50217  0.49043  1.00000 0,Dy,Dz  
+Pb2 Pb   2 b  0.50000  0.62929  0.49283  1.00000 0,Dy,Dz  
+Cl1 Cl   2 b  0.50000  0.11190  0.39280  1.00000 0,Dy,Dz  
+Cl2 Cl   4 c  0.25264  0.47006  0.48841  1.00000 Dx,Dy,Dz 
+Cl3 Cl   2 a  0.00000  0.52286  0.73851  1.00000 0,Dy,Dz  
+Cl4 Cl   2 a  0.00000  0.00168  0.51562  1.00000 0,Dy,Dz  
+Cl5 Cl   2 b  0.50000  0.40159  0.71170  1.00000 0,Dy,Dz  
+C1  C    4 c  0.79849  0.01129  0.77121  1.00000 Dx,Dy,Dz 
+H1  H    4 c  0.75687  0.69356  0.68748  1.00000 Dx,Dy,Dz 
+H2  H    4 c  0.64978  0.79410  0.77748  1.00000 Dx,Dy,Dz 
+H3  H    4 c  0.86504  0.06189  0.70671  1.00000 Dx,Dy,Dz 
+H4  H    4 c  0.84077 -0.07671  0.84496  1.00000 Dx,Dy,Dz 
+H5  H    4 c  0.74829  0.16416  0.80118  1.00000 Dx,Dy,Dz 
+H6  H    4 c  0.60444  0.08335  0.64819  1.00000 Dx,Dy,Dz 
+H7  H    4 c  0.71069 -0.00187  0.55943  1.00000 Dx,Dy,Dz 
+N1  N    4 c  0.71390  0.84360  0.71620  1.00000 Dx,Dy,Dz 
+N2  N    4 c  0.64902 -0.06322  0.61779  1.00000 Dx,Dy,Dz 
+
+# end of cif
